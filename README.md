@@ -1,4 +1,4 @@
-# bourbon-sass
+# sass
 
 ## Project setup
 ```
