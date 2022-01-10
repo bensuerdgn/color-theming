@@ -1,4 +1,4 @@
-# sass
+# color-theming
 
 ## Project setup
 ```
